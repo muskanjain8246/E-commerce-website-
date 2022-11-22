@@ -141,7 +141,7 @@ If you want to contribute or have ideas for this project, just fork the repo and
 <br />
 <!-- SOCIAL LINKS -->
 
-## **Social Links**
+<!-- ## **Social Links**
 Let's connect and talk about development, music, books and much more 🌠! 
 > [GitHub Profile](https://github.com/bharati-21) &nbsp;&middot;&nbsp; 
 > [LinkedIn Profile](https://www.linkedin.com/in/bharati-subramanian-29734b152/) &nbsp;&middot;&nbsp;
@@ -156,5 +156,5 @@ Check out my developer portfolio 🌐-
 <hr />
 <p align="center">Copyright &copy; 2022 
   <br />
-  <a href="https://bharati-21.github.io/">👩‍💻 Bharati Subramanian</a>
-</p>
+  <!-- <a href="https://bharati-21.github.io/">👩‍💻 Bharati Subramanian</a> -->
+</p> -->
